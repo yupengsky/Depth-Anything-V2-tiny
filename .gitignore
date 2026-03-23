@@ -1,0 +1,7 @@
+metric_depth/photos/*
+metric_depth/outputs/*
+*.pth
+
+__pycache__/
+*.py[cod]
+.pytest_cache/
