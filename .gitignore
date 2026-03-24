@@ -1,6 +1,8 @@
 metric_depth/photos/*
 metric_depth/outputs/*
+metric_depth/.ultralytics/
 *.pth
+*.pt
 
 __pycache__/
 *.py[cod]
